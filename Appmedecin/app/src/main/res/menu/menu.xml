@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/acc"
+        android:title="Acceuil"
+        />
+    <item android:id="@+id/ann"
+        android:title="Annuaire"
+        />
+    <item android:id="@+id/nou"
+        android:title="Login "
+        />
+    <item android:id="@+id/ap"
+        android:title="A-propos "
+        />
+    <item android:id="@+id/cu"
+    android:title="Contactez-nous "
+    />
+    <item android:id="@+id/rg"
+    android:title="Réglementation "
+    />
+</menu>

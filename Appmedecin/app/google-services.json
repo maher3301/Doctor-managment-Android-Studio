@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25852503419",
+    "project_id": "app2-33e31",
+    "storage_bucket": "app2-33e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25852503419:android:678fed032de3f64b21c9de",
+        "android_client_info": {
+          "package_name": "com.example.appmedecin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVthiHLuZZLRHxZS70US7NCROHyPsOss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
